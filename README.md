@@ -1,1 +1,1 @@
-Undergraduate Bioengineering student currently working as a Data Engineering Intern. Interested in Python, R, SQL and all things Data Science.
+Data Science Intern at Michelin and Masters Student at Clemson University studying Data Science. Deeply interested in machine learning, data mining, and business intelligence.
